@@ -1,0 +1,1 @@
+https://www.jetbrains.com/help/idea/2024.3/configuring-keyboard-and-mouse-shortcuts.html?preferences.keymap&keymap=macOS#l1lm02_144
